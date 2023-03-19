@@ -1,4 +1,4 @@
-<img src="heading.svg" style="width: 20%;" alt="Click to see the source">
+<img src="heading.svg" style="width: 25%;" alt="Click to see the source">
 
 ___
 
