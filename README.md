@@ -1,5 +1,5 @@
 <img src="heading.svg" style="width: 25%;" alt="Click to see the source">
-<h4 style="font-family: Helvetica, sans-serif;">I'm a Game Developer 🎮</h4>
+<h4 style="font-family: Helvetica, sans-serif;">I'm a Game Programmer 🎮</h4>
 
 #
 
