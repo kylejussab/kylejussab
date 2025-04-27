@@ -1,10 +1,13 @@
-<img src="heading.svg" style="width: 25%;" alt="Click to see the source">
-<h4 style="font-family: Helvetica, sans-serif;">I'm a Game Programmer 🎮</h4>
 
-#
+<p style="font-family: Helvetica, sans-serif; margin-block: 0px;">GAMEPLAY PROGRAMMER & SOFTWARE ENGINEER</p>
+<h1 style="font-family: Helvetica, sans-serif; margin-top: 0px;">"Creativity lives in code, disguised as video games." - Kyle Jussab</h1>
 
-<p style="font-family: Helvetica, sans-serif;">I’m studying a BSc in Computer Science (Games Development) with University of London, while also studying an ASc in Games Design and Development with Pasadena City College. My goal is to learn as much as I can on how video games are built, and what makes those experiences truly engaging. To make a meaningful game I need to understand how and why games are developed. I don’t just want to make them, I want to make them mean something.</p>
-<p style="font-family: Helvetica, sans-serif;">Time to make some video games.</p>
+<h3 style="font-family: Helvetica, sans-serif;">Skills</h3>
+<p style="font-family: Helvetica, sans-serif;">Languages & Frameworks: C#, C++, JavaScript, Python, React</p>
+<p style="font-family: Helvetica, sans-serif;">Developer Tools: Unity, Git, GitHub, Xcode, Visual Studio, VSCode, mySQL, npm, GB Studio</p>
+
+<p style="font-family: Helvetica, sans-serif; font-size: 12px;">I’m studying a BSc in Computer Science (Games Development) with University of London, while also studying an ASc in Games Design and Development with Pasadena City College. My goal is to learn as much as I can on how video games are built, and what makes those experiences truly engaging. To make a meaningful game I need to understand how and why games are developed. I don’t just want to make them, I want to make them mean something.</p>
+<p style="font-family: Helvetica, sans-serif; font-size: 12px;">Time to make some video games.</p>
 
 ___
 
