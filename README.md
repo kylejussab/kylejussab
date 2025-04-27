@@ -16,11 +16,6 @@ ___
 <img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br />    
 
-___
-<details>
-<summary><h3 style="font-family: Helvetica, sans-serif;">More about me</h3></summary>
-          <p style="font-family: Helvetica, sans-serif;">At the age of 14, after finishing the game, I watched The Making of The Last of Us. I instantly fell in love with the game development culture while being inspired by all the talented and creative people that bring a game to life. Without physically being there, I felt that this was the place for me, and this is the place I belong. In many ways I feel indebted to the game developers that gave me this sense of purpose and all I want to do is pay my debts by doing the same for others. I wouldn’t be who I am without them.</p>
-
 <!---
 kylejussab/kylejussab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
